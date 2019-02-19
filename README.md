@@ -1,4 +1,5 @@
 # scala-butthurt-tools
 
-[PDF](./scala butthurt tools.pdf)
-[ODP (Open Presentation - LibreOffice)](./scala butthurt tools.pdf)
+[PDF](./scala%20butthurt%20tools.pdf)
+
+[ODP (Open Presentation - LibreOffice)](./scala%20butthurt%20tools.odp)
