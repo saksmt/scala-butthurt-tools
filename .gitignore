@@ -1,1 +1,4 @@
 .~lock*
+target/
+project/project/
+out/
